@@ -1,0 +1,142 @@
+[
+    {   
+        "id" : "1",
+        "moviename": "Shang-Chi And The Legend Of The Ten Rings",
+        "image": "pictures/banner/shangchi.jpg",
+        "genre": "Action/Adventure/Fantasy",
+        "description": "Marvel Studios' 'Shang-Chi and The Legend of The Ten Rings' stars Simu Liu as Shang-Chi, who must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organisation. The film also stars Tony Leung as Wenwu, Awkwafina as Shang-Chi's friend Katy and Michelle Yeoh as Jiang Nan, as well as Fala Chen, Meng'er Zhang, Florian Munteanu and Ronny Chieng."
+    },
+    {
+        "id" : "2",
+        "moviename": "Crayon Shinchan The Movie: School Mystery! The Splendid Tenkasu Academy",
+        "image": "pictures/banner/shinchan.jpg",
+        "genre": "Anime",
+        "description": "Shinnosuke and some friends from the Kasukabe Defense Force visit the Tenkatōitsu Kasukabe Private Academy for a one-week stay, expecting a nice time. Tenkasu, as the academy is nicknamed, is an elite boarding school run by a powerful and futuristic AI. Once in Tenkasu, Kazama is mysteriously attacked. The attack leaves him with reduced intelligence and some bite marks on his backside. The Kasukabe Defense Force teams up with the school's dropout student council president, Chishio Atsuki, to get to the bottom of this truly odd mystery."
+    },
+    {
+        "id" : "3",
+        "moviename": "Dune",
+        "image": "pictures/banner/dune.jpg",
+        "genre": "Adventure/Drama/Science Fiction",
+        "description": "Based on Frank Herbert's 1965 novel of the same name, which is set far into the future. Duke Leto Atreides has accepted stewardship of the dangerous desert planet Arrakis, also known as Dune. It is the only source of a drug called 'the spice', the most valuable substance in the universe as it provides accelerated levels of thought and extends human life. Despite knowing that this is a complicated trap set by his enemies, the Harkonnens, Leto still takes his young son and heir Paul, his Bene Gesserit concubine Lady Jessica, and his most trusted advisers to the planet. He takes control of the spice mining operation, even though it is dangerous due to the giant sandworms in the area. When the Atreides family gets betrayed, his son Paul leads a rebellion to restore his family's control of the planet."
+    },
+    {
+        "id" : "4",
+        "moviename": "Anita",
+        "image": "pictures/banner/anita.jpg",
+        "genre": "Biography/Drama",
+        "description": "In 2003, Anita Mui left us. The demise of a generational superstar marks the end of a glorious era in Hong Kong. The four year-old little singer who appeared on stage in Li Yuan Amusement Park, sang and rose to fame as one of Asia's most iconic superstars. In her mere 40 years of life, how much hardships and sacrifices has she made? Behind the stardom, her love life, her passion for work, her love for friends and for Hong Kong has given her an irreplaceable status of the 'daughter of Hong Kong.'Edko Films and Irresistible Films have prepared for 7 years to give audiences the biopic of Anita Mui, which will bring her legacy back to the eyes of fans."
+    },
+    {
+        "id" : "5",
+        "moviename": "Eternals",
+        "image": "pictures/banner/eternals.jpg",
+        "genre": "Action/Adventure",
+        "description": "A race of immortal beings known as the Eternals, which are created by the Celestials, has lived on Earth for thousands of years. They not only shape the planet's civilisations and history, they also protect humans from the evil Deviants."
+    },
+    {
+        "id" : "6",
+        "moviename": "Venom: Let there be carnage",
+        "image": "pictures/banner/venom.jpg",
+        "genre": "Action",
+        "description": "Tom Hardy returns to the big screen as Eddie Brock and its lethal protector Venom - one of Marvel's greatest and most complex characters. An investigative journalist, Brock attempts to reignite his career by interviewing serial killer Cletus Kasady. Kasady escapes from prison after becoming the host of Carnage - a chaotic spawn of Venom. Directed by Andy Serkis, the film also stars Michelle Williams, Naomie Harris and Woody Harrelson, in the role of the villain Cletus Kasady/Carnage."
+    },
+    {
+        "id" : "7",
+        "moviename": "Encanto",
+        "image": "pictures/banner/encanto.jpg",
+        "genre": "Adventure/Animation/Comedy",
+        "description": "Encanto tells the tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift from super strength to the power to heal - every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope."
+    },
+    {
+        "id" : "8",
+        "moviename": "A Quiet Place Part II",
+        "image": "pictures/banner/quietplace2.jpg",
+        "genre": "Horror/Thriller",
+        "description": "The Abbot family, following the deadly events they faced at home, is forced to venture into the unknown and face the terrors of the outside world. As they continue their fight for survival in silence, they come to realise that there are other threats that lurk beyond the sand path, aside from just the extra-terrestrial creatures that hunt by sound."
+    },
+    {
+        "id" : "9",
+        "moviename": "Fate/Grand Order: Final Singularity",
+        "image": "pictures/banner/fgo.jpg",
+        "genre": "Anime",
+        "description": "After battling their way through all seven Singularities, the Chaldea Security Organisation has finally arrived at the endpoint of the Grand Order. Now is the time to defeat the root of all evil, Solomon, the King of Mages. Now is the time to reclaim the future. With the final operation looming large, Romani Archaman considers the choices he will soon have to make, Mash Kyrielight dwells on life's limitations, and Fujimaru prepares to receive a new Mystic Code. All of their many encounters have led to this moment as Fujimaru and Mash at last embark on their final operation."
+    },
+    {
+        "id" : "10",
+        "moviename": "Spider-Man: No Way Home",
+        "image": "pictures/banner/spiderman.jpg",
+        "genre": "Action/Adventure/Science Fiction/Superhero",
+        "description": "For the first time in the cinematic history of Spider-Man, our friendly neighborhood hero is unmasked and no longer able to separate his normal life from the high-stakes of being a Super Hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man."
+    },
+    {
+        "id" : "11",
+        "moviename": "No Time To Die",
+        "image": "pictures/banner/007.jpg",
+        "genre": "Action/Adventre/Thriller",
+        "description": "James Bond now lives a peaceful life in Jamaica after leaving active service. But when his old friend Felix Leiter from the CIA asks him for help, he is thrown into a mission to rescue a kidnapped scientist. This leads him onto the trail of a mysterious villain who possesses dangerous new technology."
+    },
+    {
+        "id" : "12",
+        "moviename": "The Cursed: Dead Man's Prey",
+        "image": "pictures/banner/cursed.jpg",
+        "genre": "Horror/Thriller",
+        "description": "In this movie spinoff of 'The Cursed', a supernatural Korean drama, reporter Im Jin-Hee receives a mysterious call while on a live radio programme - the strange voice warning her about a murder happening soon. After the call, people begin to be murdered left and right. The murderers are jaechaui - corpses that can walk and talk like just like humans. One thing separates them from humans, though: they are just puppets being manipulated by someone far scarier than themselves."
+    },
+    {
+        "id" : "13",
+        "moviename": "Don't Breathe 2",
+        "image": "pictures/banner/dontbreathe2.jpg",
+        "genre": "Horror/Thriller",
+        "description": "Following the events from the first movie, the Blind Man now lives in an isolated cabin, where he has been hiding out for years. However, he is not alone, as he has taken in and is raising a young girl who has become orphaned following a house fire. One day, when a group of kidnappers take the girl away from him, he is forced to leave his safe haven to rescue her."
+    },
+    {
+        "id" : "14",
+        "moviename": "Fast & Furious 9: The Fast Saga",
+        "image": "pictures/banner/fnf.jpg",
+        "genre": "Action/Adventure/Crime",
+        "description": "The movie picks up after the events of 2017's 'Fast and Furious 8'. This time around, Dominic Toretto and his family come face-to-face with a new enemy: a deadly assassin working with their old enemy, Cipher. The assassin also happens to be Dominic's younger brother, Jakob, who holds a personal vendetta against him."
+    },
+    {
+        "id" : "15",
+        "moviename": "Tokyo Revengers",
+        "image": "pictures/banner/tokyorevengers.jpg",
+        "genre": "Drama",
+        "description": "Takemichi is a miserable 26 year-old living in a miserable apartment and has a miserable job. One day, he found out that his former girlfriend Hinata from high school was killed by the Tokyo Manjikai Gang. The next day, he was pushed by someone on the train platform onto the tracks and somehow, he has time-leaped back ten years into the past. He finds Hinata's brother Naoto and changes the past so that the future can be changed. Back to present day, Naoto's fate has changed but Hinata still got killed. Takemichi now wants to go back to the past again - to make sure that Hinata is saved."
+    },
+    {
+        "id" : "16",
+        "moviename": "Scream",
+        "image": "pictures/banner/scream.jpg",
+        "genre": "Horror/Mystery/Thriller",
+        "description": "Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town's deadly past. Neve Campbell, Courteney Cox and David Arquette return to their iconic roles alongside Melissa Barrera, Kyle Gallner, Mason Gooding, Mikey Madison, Dylan Minnette, Jenna Ortega, Jack Quaid, Marley Shelton, Jasmin Savoy Brown, and Sonia Ammar."
+    },
+    {
+        "id" : "17",
+        "moviename": "Resident Evil: Welcome To Raccoon City",
+        "image": "pictures/banner/residentevil.jpg",
+        "genre": "Action/Adventure/Horror",
+        "description": "Returning to the origins of the massively popular 'Resident Evil' franchise, fan and filmmaker Johannes Roberts brings the games to life for a whole new generation of fans. In this film, once the booming home of pharmaceutical giant Umbrella Corporation, Raccoon City is now a dying Midwestern town. The company's exodus left the city a wasteland... with great evil brewing below the surface. When that evil is unleashed, a group of survivors must work together to uncover the truth behind Umbrella and make it through the night."
+    },
+    {
+        "id" : "18",
+        "moviename": "Clifford The Big Red Dog",
+        "image": "pictures/banner/clifford.jpg",
+        "genre": "Adventure/Comedy/Family",
+        "description": "When middle-schooler Emily Elizabeth (Darby Camp) meets a magical animal rescuer (John Cleese) who gifts her a little, red puppy, she never anticipated waking up to find a giant ten-foot hound in her small New York City apartment. While her single mom (Sienna Guillory) is away for business, Emily and her fun but impulsive Uncle Casey (Jack Whitehall) set out on an adventure that will keep you on the edge-of-your-seat as our heroes take a bite out of the Big Apple. Based on the beloved Scholastic book character, Clifford will teach the world how to love big!"
+    },
+    {
+        "id" : "19",
+        "moviename": "The Matrix: Resurrections",
+        "image": "pictures/banner/matrix.jpg",
+        "genre": "Action/Science Fiction",
+        "description": "The fourth instalment of the 'The Matrix' franchise, helmed and co-written by Lana Wachowski. Keanu Reeves reprises his starring role as Neo while Carrie-Anne Moss, Jada Pinkett Smith, and Lambert Wilson also return as Trinity, Niobe and The Merovingian, respectively."
+    },
+    {
+        "id" : "20",
+        "moviename": "Ghostbusters: Afterlife",
+        "image": "pictures/banner/ghostbuster.jpg",
+        "genre": "Comedy/Fantasy",
+        "description": "A continuation of the first two 'Ghostbusters' movies from the '80s, this time focusing on a young boy and a young girl. The siblings and their mother, after being evicted from their home, move to a property in Summerville, Oklahoma, that they've inherited from their late grandfather. A series of unexplained earthquakes in the small town leads to the children discovering their family's connection to the original ghostbusters and the secret legacy left behind by their grandfather."
+    }
+]

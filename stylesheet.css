@@ -1,0 +1,166 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color:grey;
+}
+
+.header, .footer {
+    color:#ffffff;
+    background-color :#525252
+}
+
+.header a, .footer a{
+    text-decoration: none;
+    color:#ffffff;
+}
+
+.header a:hover, .footer a:hover{
+    text-decoration: underline;
+}
+
+.header-column2 i:hover, .social-media i:hover{
+    color:#a6a6a6;
+}
+
+.page-container {
+    position: relative;
+    min-height: 100vh;
+}
+
+.content-wrap {
+    padding-bottom: 14.5rem;
+}
+
+.header-row1 {
+    padding-top: 5px;
+    padding-right: 10px;
+    text-align: right;
+}
+
+.header-row2 {
+    display: flex;
+    flex-direction: row;
+    padding-right: 75px;
+    padding-left: 75px;
+}
+
+.header-column1 {
+    width:90%;
+}
+
+.header-column2 {
+    width:10%;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.header-subrow1 img{
+    vertical-align: middle;
+    margin-right: 20px;
+}
+
+.header-subrow1 input[type=text] {
+    width:50%;
+    height: 30px;
+    padding-left: 10px;
+    border: none;
+    border-radius: 5px 0 0 5px;
+}
+
+.header-subrow1 button {
+    height:32px;
+    width: 30px;
+    cursor: pointer;
+    border: none;
+    border-radius: 0 5px 5px 0;
+}
+
+.header-subrow2 ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.header-subrow2 li{
+    float:left;
+}
+
+.header-subrow2 li a {
+    display: block;
+    padding: 14px 16px;
+}
+
+.header-subrow2 .active {
+    text-decoration: underline;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    padding-right: 75px;
+    padding-left: 75px;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 14.5rem;
+}
+
+.footer-column1{
+    width: 33.33%;
+}
+
+.footer-column2{
+    width: 33.33%;
+}
+
+.footer-column2 i{
+    font-size: 36px;
+}
+
+.foother-column3{
+    width: 33.33%;
+}
+
+.main {
+    padding-left: 75px;
+    padding-right:75px;
+}
+
+.tab {
+    display:flex;
+    flex-direction: column;
+    border-right: solid;
+    border-color: #cccccc;
+    border-width: 1px;
+    color:#ffffff;
+}
+
+.tab-container {
+    display:flex;
+    flex-direction: row;
+    height: 250px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #cccccc;
+    border-width: 1px;
+}
+
+.tab ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+.tab li a{
+    display: block;
+    padding:14px 16px;
+}
+
+.tab li a:hover{
+    color:#ffffff;
+    cursor:pointer;
+}
+
+.tab .active{
+    color:#000000;
+}
+
